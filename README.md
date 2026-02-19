@@ -24,9 +24,11 @@ Excel / CSV – Raw dataset format
 
 Key Analysis Performed:
 
-Total sales and profit by category and product
-Revenue and order insights by city and customer type
-Average order values and comparisons
+Total sales and profit by category and product.
+
+Revenue and order insights by city and customer type.
+
+Average order values and comparisons.
 
 📷 Screenshots / Dashboard Samples:
 
